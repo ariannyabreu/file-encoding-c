@@ -2,8 +2,7 @@
 
 ## Summary
 
-This project is a C program that provides functionality to encode and decode text files into a custom AAG file format. 
-The AAG file format is designed with a specific structure that includes metadata about the text file, such as a checksum and text size, to ensure data integrity.
+This project is a C program that provides functionality to encode and decode text files into a custom AAG file format. The AAG file format is designed with a specific structure that includes metadata about the text file, such as a checksum and text size, to ensure data integrity.
 
 ## Features
 
@@ -41,7 +40,7 @@ The AAG file format is designed with a specific structure that includes metadata
 
 ## Acknowledgments
 
-This project was initially developed as part of the CIS154 coursework by Professor Michael Penta at NECC, Haverhill, MA. It was further enhanced to improve memory allocation and deallocation best practices.
+This project was initially developed as part of the CIS154 coursework by Professor Michael Penta at NECC, Haverhill, MA. It was further enhanced to improve memory allocation and deallocation best practices, ensuring more robust and error-free handling of dynamic memory.
 
 ## Contact
 
